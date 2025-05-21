@@ -51,7 +51,16 @@
 - **Edited on:** `Dashboard.fxml`
 
 2-Harridi Mohammed Alaaeddine : <br>
-##Controller
+## Controller
 
+- **DashboardController**
+  - `ShowPriorityNotification()`
+  - `SetCurrentId(int userId)`
+  - `loadUserScoreAndRank()`
+  - `StopAllReminders()`
+  - `loadTaskFromDatabase()`
+  - `handleLeaderboard(ActionEvent event)`
+  - `handleAccueilClick(ActionEvent event)`
+  - `SetUsername(String username)`
  
         
