@@ -1,6 +1,6 @@
 # SFSD\\
-Description de la contribution pour chaque membre : \\
-1-Nacer Bey Abderrahmane Zakaria : \\
+Description de la contribution pour chaque membre : <br>
+1-Nacer Bey Abderrahmane Zakaria : <br>
 ## Controller
 
 - **DashboardController**
