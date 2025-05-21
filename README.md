@@ -50,5 +50,8 @@
 - `Leaderboard2.fxml`
 - **Edited on:** `Dashboard.fxml`
 
+2-Harridi Mohammed Alaaeddine : <br>
+##Controller
+
  
         
